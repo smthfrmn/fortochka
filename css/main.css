@@ -1,0 +1,31 @@
+@import url('font-awesome.min.css');
+
+body {
+    background-color: #FFEA00;
+}
+
+main {
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    color: #3C3C3E;
+    font-family: 'Geo', sans-serif;
+    font-size: 100;
+    text-align: center;
+    margin-bottom: .1em;
+}
+
+p {
+    text-align: center;
+}
+
+i.fab {
+    font-size: 30;
+    color: black;
+}
+
